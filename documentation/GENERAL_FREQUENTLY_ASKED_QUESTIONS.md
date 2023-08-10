@@ -64,7 +64,7 @@ JELOS branding is licensed for non-commercial use only.  Even if approved to be 
 
 `systemctl start ${UI_SERVICE}`
 
-> Note: once it's edited any changes made by system updates will be ignored
+> Note: System updates will overwrite it, custom settings will be preserved as last_es_systems.cfg.
 
 ### Where do I put bios files and files and Retroarch system files
 
